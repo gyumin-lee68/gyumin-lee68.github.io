@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : I am undergraduate student in Yonsei Univerisy. I major in Applied Statistics and also study Mathematics.
   location         : Seoul, Korea
-  email            :
+  email            : minzzang68@naver.com
   links:
     - label: minzzang68@naver.com
       icon: "fas fa-fw fa-envelope-square"
