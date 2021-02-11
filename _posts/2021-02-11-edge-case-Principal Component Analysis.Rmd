@@ -1,0 +1,81 @@
+---
+title: "Principal Component Analysis"
+author: "Gyumin Lee"
+date: '2021 2 11 '
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ISLR)
+library(pls)
+```
+
+# Principal Component Analysis
+
+
+### application of SVD(or eigenvalue decomposition)
+
+
+Principal Component Analysis(or PCA) is the way of reducing the dimensions of data by applying eigenvalue decomposition to the covariance matrix of data. By using PCA, we could select the principal component directions whose eigenvalue has large value, resulting in dimension reduction.
+
+
+We first denote the data $X_1, ..., X_p$ and its covariance matrix $\Sigma=VDV'$. We could write as this by conducting eigenvalue decomposition where $\Sigma$ is symmetric, and $V$ is orthogonal. Here we denote $V=[v_1, ..., v_p]$, and $D=Diag[\lambda_1, ...\lambda_p]$ , which makes $\Sigma=\sum{\lambda_iv_iv_i'}$ 
+
+
+By PCA, reducing the dimension of data is available from the following fact.
+
+
+* For positive definite matrix $A$ with eigenvalues $\lambda_1, ...\lambda_p$ (ordered)and its normalized eigenvectors $v_1, ...v_p$, maximum value of $l'Al$ for $l'l=1$ is $\lambda_1$ when $l=v_1$ and minimum value is $\lambda_p$ when $l=v_p$. 
+
+
+This could be easily showed since we could write $l=\sum{c_iv_i}$ where $l'l=\sum{c_i^2}=1$. Then $l'Al=\sum{\lambda_i(l'v_i)^2}=\sum{\lambda_ic_i^2}$. So it is maximized when $c_1=1$ and others are 0, while minimized when $c_p=1$ and others are 0. So with this method, we could use fewer dimension of the data with large lambdas, which is eigenvalue of the covariance matrix.
+
+
+### Example
+
+
+The following example is from the 'Introduction to Statistical Learning', using PCA to analyze the real data of colleges.
+
+
+```{r cars}
+summary(College)
+```
+
+
+Setting 70% of the data as train set, the simple linear regression model was first used. 
+
+```{r}
+set.seed(111111)
+train.size = dim(College)[1] * 0.7
+train = sample(1:dim(College)[1], train.size)
+test = -train
+College.train = College[train, ]
+College.test = College[test, ]
+
+# least square
+lm.fit = lm(Apps~., data=College.train)
+lm.pred = predict(lm.fit, College.test)
+mean((College.test[, "Apps"] - lm.pred)^2)
+```
+
+
+Here we got MSE of 1130601 with dimension of 19.
+
+
+On the other hand, PCA could be used to reduce the dimension of this large data.
+
+
+```{r}
+# pcr
+
+pcr.fit = pcr(Apps~., data=College.train, scale=T, validation="CV")
+validationplot(pcr.fit, val.type="MSEP") 
+
+pcr.pred = predict(pcr.fit, College.test, ncomp=16)
+mean((College.test[, "Apps"] - data.frame(pcr.pred)[,1])^2)
+```
+
+We got MSE of 1182710 which is slightly bigger than the result from simple linear regression. However, from the plot comparing MSE and number of components, we could notice that only using 17 components could make MSE low enough.
+
+From this simple example, we could see the real life application of SVD, PCR could be used to reduce the dimension of data while giving similar error.
