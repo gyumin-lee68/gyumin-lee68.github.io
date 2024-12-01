@@ -311,7 +311,7 @@ whitelist:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
+  #- jekyll-redirect-from
   - jemoji
 
 
