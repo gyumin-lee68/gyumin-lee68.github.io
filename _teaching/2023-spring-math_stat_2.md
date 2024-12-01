@@ -1,7 +1,7 @@
 ---
 title: "(STA3109) Mathematical Statistics II"
 collection: teaching assistant
-type: ""
+type: "Undergraduate course"
 permalink: /teaching/2023-spring-math_stat_2
 venue: "Yonsei University, Department of Applied Statistics"
 date: Spring 2023
