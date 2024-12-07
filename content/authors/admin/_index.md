@@ -175,4 +175,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gyumin Lee is a graduate student in Statistics and Data Science at Yonsei University. His research interest lies in High-dimensional Inference including Robust Statistics, Distribution-free Inference, Kernel Methods, and Computational Statistics including AI-driven Statistical Inference, Deep Learning Theory, and Applications of Harmonic Analysis in Statistical Frameworks.
