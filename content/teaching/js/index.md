@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
+title: Introduction to Statistics
 summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+date: 2024-09-01
 type: docs
-math: false
+math: true
 tags:
-  - JavaScript
+  - STA1001
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
