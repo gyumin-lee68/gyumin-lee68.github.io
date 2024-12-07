@@ -1,11 +1,11 @@
 ---
-title: Learn Python
+title: Mathematical Statistics II
 summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+date: 2024-09-01
 type: docs
-math: false
+math: true
 tags:
-  - Python
+  - STA3109
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
