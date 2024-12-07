@@ -46,7 +46,7 @@ education:
   - area: MA Statistics and Data Science
     institution: Yonsei University
     date_start: 2023-03-02
-    date_end: present (2025-02-24)
+    date_end: 2025-02-24
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
