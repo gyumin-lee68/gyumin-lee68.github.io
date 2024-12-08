@@ -1,14 +1,9 @@
 ---
 title: Mathematical Statistics II
-summary: Easily learn Python in 10 minutes!
+summary: Statistical inference including maximum likelihood function, sufficiency, optimal tests of hypotheses.
 date: 2024-09-01
 type: docs
 math: true
 tags:
   - STA3109
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
 ---
-Textbook: "Probability and Statistics for Engineers and Scientists" by Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, and Keying E. Ye
-Prepared weekly TA sessions with review and problem-solving lectures for 30+ undergraduates in English
-Assessed exams and provided detailed feedback to support academic improvement.
