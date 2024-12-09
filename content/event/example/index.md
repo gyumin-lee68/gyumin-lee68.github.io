@@ -1,8 +1,7 @@
 ---
-title: A Semi-Supervised Kernel Two-Sample Test (2024 Korean Statistical Society Winter
-Conference)
+title: A Semi-Supervised Kernel Two-Sample Test
 
-event: Hugo Blox Builder Conference
+event: 2024 Korean Statistical Society Winter Conference
 event_url: https://example.org
 
 location: Korea Advanced Institute of Science of Technology (KAIST)
@@ -52,7 +51,7 @@ url_video: 'https://youtube.com'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "exapmle-slides"
+slides: "example-slides"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
