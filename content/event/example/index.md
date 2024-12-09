@@ -2,7 +2,7 @@
 title: A Semi-Supervised Kernel Two-Sample Test
 
 event: 2024 Korean Statistical Society Winter Conference
-event_url: https://example.org
+event_url: https://eng.kss.or.kr
 
 location: Korea Advanced Institute of Science of Technology (KAIST)
 address:
@@ -17,8 +17,8 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-23T09:45:00Z'
-date_end: '2023-11-23T10:00:00Z'
+date: '2023-11-22T08:30:00Z'
+date_end: '2023-11-23T12:20:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -32,19 +32,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
 #links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: '/static/uploads/exapmle-slides.pdf'
-url_video: 'https://youtube.com'
+url_slides: 'https://github.com/gyumin-lee68/gyumin-lee68.github.io/blob/main/static/uploads/slides.pdf'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
