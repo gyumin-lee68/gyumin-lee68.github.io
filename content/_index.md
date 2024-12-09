@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
+      text: |
         My research interest lies in developing statistical inference methods that perform well
 in complex and dynamic data settings, effectively leveraging data characteristics to yield
 meaningful results. I aim to focus on developing statistical inference
