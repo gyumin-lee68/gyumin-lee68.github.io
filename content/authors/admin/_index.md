@@ -38,9 +38,12 @@ profiles:
     url: https://scholar.google.com/](https://scholar.google.com/citations?user=g8M9KpsAAAAJ&hl=ko
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - High-dimensional Inference
+  - Robust Statistics
+  - Distribution-free Inference
+  - Kernel Methods
+  - Computational Statistics
+  - Application of Harmonic Analysis
 
 education:
   - area: MA Statistics and Data Science
@@ -49,10 +52,19 @@ education:
     date_end: 2025-02-24
     summary: |
       GPA: 4.3/4.3
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Advised by [Prof Ilmun Kim](https://ilmunk.github.io). Presented ongoing work at 2024 Korean Statistical Society Winter Conference and 2024 Brain Korea Student Seminar.
+      Courses included (* English-only class):
+      - Statistical Theory for High Dimensional and Big Data*
+      - Theoretical Statistics*
+      - Statistical Learning Theory
+      - Nonparametric Function Estimation
+      - Functional Data Analysis*
+      - Oscillatory Integral and its Applications
+      - Harmonic Analysis 1
+      - Real Analysis Ⅰ
+      - Advanced Deep Learning
+      - Recent Advances in Theoretical Machine Learning
+      - Generalized Mixed Models for Data Science
   - area: Exchange Student
     institution: University of Wisconsin Madison
     date_start: 2022-01-25
@@ -61,9 +73,9 @@ education:
       GPA: 4.0/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Introduction to Measure and Integration*
+      - Statistical Methods for Epidemiology*
+      - Mathematical Methods in Data Science*
   - area: BA Applied Statistics & BSc Mathematics
     institution: Yonsei University
     date_start: 2017-03-02
@@ -72,9 +84,12 @@ education:
       GPA: 4.14/4.3
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Probability and Random Processes 
+      - Stochastic Processes for Data Science
+      - Categorical Data Analysis 
+      - Partial Differential Equations
+      - Complex Analysis*
+      - Theoretical Statistics(1)
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -120,55 +135,50 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Walk
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
-      - name: Cats
+      - name: Soccer
         description: ''
-        percent: 100
-        icon: cat
+        percent: 50
+        icon: soccer
       - name: Photography
         description: ''
-        percent: 80
+        percent: 30
         icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 95
+  - name: German
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Excellent Prize, 2023 Yonsei Big Data Analysis Competition 
+    date: '2023-09-02'
+    awarder: Yonsei University & Neovalue Co.
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - title: Semester High Honors
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: Yonsei University
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  - title: Semester Honors
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    awarder: Yonsei University
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
