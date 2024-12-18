@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-Gyumin Lee is a graduate student in Statistics and Data Science at Yonsei University. His research interest lies in High-dimensional Inference including Robust Statistics, Distribution-free Inference, Kernel Methods, and Computational Statistics including AI-driven Statistical Inference, Deep Learning Theory, and Applications of Harmonic Analysis in Statistical Frameworks.
+I am a graduate student in Statistics and Data Science at Yonsei University. My research interest lies in High-dimensional Inference including Robust Statistics, Distribution-free Inference, and Kernel Methods. I am also interested in Deep Learning Theory and Harmonic Analysis and their applications within statistical frameworks to enhance inference methods.
