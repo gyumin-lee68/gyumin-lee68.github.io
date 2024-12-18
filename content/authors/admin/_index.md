@@ -6,6 +6,12 @@ title: Gyumin Lee
 first_name: Gyumin
 last_name: Lee
 
+image:
+  caption: 'Profile picture'
+  focal_point: 'center'
+  preview_only: false
+  path: 'uploads/profile.jpg'
+  
 # Status emoji
 status:
   icon: ☕️
