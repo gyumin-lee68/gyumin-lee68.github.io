@@ -5,7 +5,7 @@ authors:
 - Ilmun Kim
 - Shubhanshu Shekhar
 date: "2025-01-06T00:00:00Z"
-doi: ""
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01T00:00:00Z"
