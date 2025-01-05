@@ -12,8 +12,18 @@ address:
   postcode: '34141'
   country: Republic of Korea
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: In this work, I extending permutation-free kernel two-sample test into the semi-supervised setting, guaranteeing its asymptotic properties under the null and alternative.
+abstract: In recent years, significant advancements in statistics and machine learning have led to the
+development of semi-supervised methodologies that leverage both labeled and unlabeled data.
+One prominent area of interest within this domain is statistical inference like two-sample test.
+In this paper, we extend existing kernel two-sample testing methods in semi-supervised setting
+based on sample-splitting and studentization which utilizes both labeled and unlabeled data. We
+prove that the corresponding statistic has a standard Gaussian asymptotic distribution under
+the null given certain conditions. Additionally, we prove that under stricter conditions, the
+statistic has a Gaussian limiting distribution either the case with or without unlabeled data.
+Furthermore, we show the consistency of the suggested test against fixed alternative, and obtain
+explicit expression of power when using bilinear kernel. We provide a numerical analysis and
+experimental results to validate the effectiveness of our proposed method.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
