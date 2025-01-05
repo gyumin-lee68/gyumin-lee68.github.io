@@ -11,7 +11,7 @@ authors:
 - Sanghyun Hong
 - Noseong Park
 date: "2023-10-28T00:00:00Z"
-doi: ""
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01T00:00:00Z"
