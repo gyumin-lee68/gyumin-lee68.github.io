@@ -19,7 +19,7 @@ publishDate: "2025-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper"]
+publication_types: ["workshop paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "NeurIPS 2023 Workshop on Distribution Shifts: New Frontiers with Foundation Models"
