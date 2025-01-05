@@ -20,7 +20,7 @@ publication_types: ["paper"]
 # publication_short: ""
 
 abstract: >
-  Recent advancements in statistics and machine learning have spurred the development
+Recent advancements in statistics and machine learning have spurred the development
 of semi-supervised methodologies that effectively integrate both labeled and unlabeled
 data. In this context, statistical inference problems have recently gained increasing atten-
 tion. Among these, the kernel Maximum Mean Discrepancy (MMD) test is a widely used
