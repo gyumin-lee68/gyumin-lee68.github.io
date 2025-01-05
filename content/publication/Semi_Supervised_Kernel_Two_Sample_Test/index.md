@@ -19,7 +19,7 @@ publication_types: ["paper"]
 # publication: "*Journal of Source Themes, 1*(1)"
 # publication_short: ""
 
-abstract: >
+abstract: |
 Recent advancements in statistics and machine learning have spurred the development
 of semi-supervised methodologies that effectively integrate both labeled and unlabeled
 data. In this context, statistical inference problems have recently gained increasing atten-
