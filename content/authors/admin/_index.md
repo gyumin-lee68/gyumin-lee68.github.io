@@ -123,12 +123,21 @@ work:
     company_name: Yonsei University
     company_url: ''
     company_logo: ''
-    date_start: 2013-03-01
+    date_start: 2023-03-01
     date_end: ''
     summary: |
       - Advised by Professor Yongho Jeon at the Basic Research Laboratory in Dept. of Statistics and Data Science
       - Delivered a presentation, "Semi-Supervised Learning: Inference," focusing on a general framework to ensure robustness and efficiency when incorporating unlabeled data into statistical models
       - Attended 48 weekly and biweekly presentations and explored the statistical foundations underlying modern machine learning and deep learning (e.g., transfer learning, watermarks for generative models, diffusion models)
+  - position: Teaching Assistant
+    company_name: Yonsei University
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-03-01
+    date_end: 2024-12-31
+    summary: |
+      - (Fall 2023, Fall 2024, course: STA1001 "Introduction to Statistics”) Delivered weekly lectures in English, mentoring over 30 undergraduate students and helping them build a strong foundation in statistical methods
+      - (Spring 2023, Fall 2023, Spring 2024, Fall 2024, course: STA3109 "Mathematical Statistics II”) Reviewed exam problems, graded, and provided detailed feedback for over 100 undergraduate students to support their academic growth, all conducted in English
   - position: Part-time Researcher
     company_name: Yonsei University
     company_url: ''
@@ -139,36 +148,48 @@ work:
       - Advised by Professor Sung-Rae Cho in Dept. of Rehabilitation Medicine
       - Performed statistical analyses on patient data using generalized linear models and explainable AI techniques to achieve accurate and interpretable results for medical professionals
       - Provided statistical guidance to predict the rehabilitative prognosis of spinal fusion surgery, focusing on identifying key factors and analyzing correlations between related variables while addressing challenges posed by missing data
-  - position: Undergraduate Research Intern
-    company_name: Yonsei University
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-07-01
-    date_end: ''
-    summary: |
-      - Advised by Professor Noseong Park at Big Data Analytics Lab. in Dept. of Computer Science
-      - Proposed a hypernetwork model, HyperGPA, conducting extensive experiments with multiple forecasting benchmarks to demonstrate the model's adaptability and effectiveness
-      - Developed the research into papers
-      - Investigated advanced deep learning methods for time series forecasting, focusing on Neural Ordinary Differential Equations to gain insights into the challenges presented by dynamic data environments
-  - position: Teaching Assistant
-    company_name: Yonsei University
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-03-01
-    date_end: 2024-12-31
-    summary: |
-      - (Fall 2023, Fall 2024, course: STA1001 "Introduction to Statistics”) Delivered weekly lectures in English, mentoring over 30 undergraduate students and helping them build a strong foundation in statistical methods
-      - (Spring 2023, Fall 2023, Spring 2024, Fall 2024, course: STA3109 "Mathematical Statistics II”) Reviewed exam problems, graded, and provided detailed feedback for over 100 undergraduate students to support their academic growth, all conducted in English
   - position: Teaching Assistant
     company_name: Seoul National University
     company_url: ''
     company_logo: ''
     date_start: 2023-08-10
-    date_end: 2024-08-31
+    date_end: 2023-08-31
     summary: |
       - (Summer 2023, course: "Machine Learning/AI-Based Research Methodologies in Child and Family Studies”) Reviewed and revised the course materials, introducing basic statistical learning methods for graduate students
       -  Designed a section on classification algorithms and guided students in using R for data analysis.
+  - position: Undergraduate Research Intern
+    company_name: Yonsei University
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-06-10
+    date_end: 2021-12-23
+    summary: |
+      - Advised by Professor Noseong Park at Big Data Analytics Lab. in Dept. of Computer Science
+      - Proposed a hypernetwork model, HyperGPA, conducting extensive experiments with multiple forecasting benchmarks to demonstrate the model's adaptability and effectiveness
+      - Developed the research into papers
+      - Investigated advanced deep learning methods for time series forecasting, focusing on Neural Ordinary Differential Equations to gain insights into the challenges presented by dynamic data environments
+  - position: Vice President, Head of Study Preparation Team 
+    company_name: Expanded Statistics Club, Yonsei University
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-07-01
+    date_end: 2021-12-28
+    summary: |
+      - Led weekly study sessions on topics such as Bayesian statistics, convex optimization, and deep learning, engaging over 30 participants
+      - Prepared and taught a course on Statistical Learning Theory and Real Analysis, providing structured lessons to help peers build a strong theoretical foundation
+      - Organized guest lectures to connect students with professionals in the field, fostering a collaborative and enriching learning environment
+  - position: Member
+    company_name: Piano in Yonsei, Yonsei University
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-03-01
+    date_end: 2018-06-28
+    summary: |
+      - Performed J. Hurwitz’s La La Land Medley and M. Moszkowski’s Spanish Dance at outdoor concerts
+      - Performed F. Chopin’s Etude Op. 25, No. 5 and E. Satie’s Gymnopédie in recitals, showcasing technical skill and musical expression.
 
+
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
