@@ -1,5 +1,5 @@
 ---
-title: Semi-Supervised Learning : Inference
+title: Semi-Supervised Learning - Inference
 
 event: Basic Research Laboratory Seminar
 
