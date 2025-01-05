@@ -47,18 +47,19 @@ interests:
   - High-dimensional Inference
   - Robust Statistics
   - Distribution-free Inference
-  - Kernel Methods
-  - Computational Statistics
+  - Kernel Methods in Statistics
+  - AI-driven Statistical Inference
+  - Deep Learning Theory
   - Application of Harmonic Analysis
 
 education:
-  - area: MA Statistics and Data Science
+  - area: MA in Statistics and Data Science
     institution: Yonsei University
     date_start: 2023-03-02
     date_end: 2025-02-24
     summary: |
       GPA: 4.3/4.3
-      Advised by [Prof Ilmun Kim](https://ilmunk.github.io). Presented ongoing work at 2024 Korean Statistical Society Winter Conference and 2024 Brain Korea Student Seminar.
+      Advised by [Prof Ilmun Kim](https://ilmunk.github.io). Presented ongoing work at the 2024 Winter Korean Statistical Society Conference and the 2024 Brain Korea Student Seminar.
       Courses included (* English-only class):
       - Statistical Theory for High Dimensional and Big Data*
       - Theoretical Statistics*
@@ -71,6 +72,8 @@ education:
       - Advanced Deep Learning
       - Recent Advances in Theoretical Machine Learning
       - Generalized Mixed Models for Data Science
+      - Mathematical Statistics Ⅰ*
+      - Linear Model
   - area: Exchange Student
     institution: University of Wisconsin Madison
     date_start: 2022-01-25
@@ -82,7 +85,7 @@ education:
       - Introduction to Measure and Integration*
       - Statistical Methods for Epidemiology*
       - Mathematical Methods in Data Science*
-  - area: BA Applied Statistics & BSc Mathematics
+  - area: BA in Applied Statistics & BSc in Mathematics
     institution: Yonsei University
     date_start: 2017-03-02
     date_end: 2023-02-24
@@ -96,29 +99,37 @@ education:
       - Partial Differential Equations
       - Complex Analysis*
       - Theoretical Statistics(1)
+      - Time Series Analysis
+      - Survival Data Analysis*
+      - General Topology* & Topology (2)*
+      - Differential Geometry (1)
+      - Modern Algebra (1)* & (2)*
+      - Analysis (1) & (2)
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Researcher
+    company_name: Yonsei University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-03-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Advised by Professor Ilmun Kim
+      - Developed a semi-supervised kernel two-sample test, analyzing its asymptotic properties and rigorously demonstrating its improved power by leveraging additional covariates
+      - Presented the work at the 2024 Korean Statistical Society Winter Conference and the Brain Korea Student Seminar
+      - Reviewed proofs and provided constructive feedback on the related works, which the authors acknowledged in their publications
+      - Organized seminars with fellow graduate students to gain insights into advanced statistical topics
+      - Working on kernel-based conditional independence testing
+  - position: Graduate Researcher
+    company_name: Yonsei University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013-03-01
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advised by Professor Yongho Jeon at the Basic Research Laboratory
+      - Delivered a presentation "Semi-Supervised Learning: Inference," focusing on a general framework to ensure robustness and efficiency when incorporating unlabeled data into statistical models
+      - Attended 48 weekly and biweekly presentations and explored the statistical foundations underlying modern machine learning and deep learning (e.g., transfer learning, watermarks for generative models, diffusion models)
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -127,13 +138,13 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
-      - name: SQL
+      - name: MATLAB
         description: ''
         percent: 40
         icon: circle-stack
@@ -160,13 +171,18 @@ languages:
   - name: English
     percent: 95
   - name: German
-    percent: 30
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Excellent Prize, 2023 Yonsei Big Data Analysis Competition 
+    date: '2023-09-02'
+    awarder: Yonsei University & Neovalue Co.
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Excellent Prize, 2023 Yonsei Big Data Analysis Competition 
     date: '2023-09-02'
     awarder: Yonsei University & Neovalue Co.
