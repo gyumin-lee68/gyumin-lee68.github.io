@@ -113,7 +113,7 @@ work:
     date_start: 2023-03-01
     date_end: ''
     summary: |2-
-      - Advised by Professor Ilmun Kim
+      - Advised by Professor Ilmun Kim in Dept. of Statistics and Data Science
       - Developed a semi-supervised kernel two-sample test, analyzing its asymptotic properties and rigorously demonstrating its improved power by leveraging additional covariates
       - Presented the work at the 2024 Korean Statistical Society Winter Conference and the Brain Korea Student Seminar
       - Reviewed proofs and provided constructive feedback on the related works, which the authors acknowledged in their publications
@@ -126,10 +126,48 @@ work:
     date_start: 2013-03-01
     date_end: ''
     summary: |
-      - Advised by Professor Yongho Jeon at the Basic Research Laboratory
-      - Delivered a presentation "Semi-Supervised Learning: Inference," focusing on a general framework to ensure robustness and efficiency when incorporating unlabeled data into statistical models
+      - Advised by Professor Yongho Jeon at the Basic Research Laboratory in Dept. of Statistics and Data Science
+      - Delivered a presentation, "Semi-Supervised Learning: Inference," focusing on a general framework to ensure robustness and efficiency when incorporating unlabeled data into statistical models
       - Attended 48 weekly and biweekly presentations and explored the statistical foundations underlying modern machine learning and deep learning (e.g., transfer learning, watermarks for generative models, diffusion models)
-
+  - position: Part-time Researcher
+    company_name: Yonsei University
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-07-01
+    date_end: ''
+    summary: |
+      - Advised by Professor Sung-Rae Cho in Dept. of Rehabilitation Medicine
+      - Performed statistical analyses on patient data using generalized linear models and explainable AI techniques to achieve accurate and interpretable results for medical professionals
+      - Provided statistical guidance to predict the rehabilitative prognosis of spinal fusion surgery, focusing on identifying key factors and analyzing correlations between related variables while addressing challenges posed by missing data
+  - position: Undergraduate Research Intern
+    company_name: Yonsei University
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-07-01
+    date_end: ''
+    summary: |
+      - Advised by Professor Noseong Park at Big Data Analytics Lab. in Dept. of Computer Science
+      - Proposed a hypernetwork model, HyperGPA, conducting extensive experiments with multiple forecasting benchmarks to demonstrate the model's adaptability and effectiveness
+      - Developed the research into papers
+      - Investigated advanced deep learning methods for time series forecasting, focusing on Neural Ordinary Differential Equations to gain insights into the challenges presented by dynamic data environments
+  - position: Teaching Assistant
+    company_name: Yonsei University
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-03-01
+    date_end: 2024-12-31
+    summary: |
+      - (Fall 2023, Fall 2024, course: STA1001 "Introduction to Statistics”) Delivered weekly lectures in English, mentoring over 30 undergraduate students and helping them build a strong foundation in statistical methods
+      - (Spring 2023, Fall 2023, Spring 2024, Fall 2024, course: STA3109 "Mathematical Statistics II”) Reviewed exam problems, graded, and provided detailed feedback for over 100 undergraduate students to support their academic growth, all conducted in English
+  - position: Teaching Assistant
+    company_name: Seoul National University
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-10
+    date_end: 2024-08-31
+    summary: |
+      - (Summer 2023, course: "Machine Learning/AI-Based Research Methodologies in Child and Family Studies”) Reviewed and revised the course materials, introducing basic statistical learning methods for graduate students
+      -  Designed a section on classification algorithms and guided students in using R for data analysis.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -178,31 +216,42 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Honorable Mention for Graduate Presentation, 2024 Winter Korean Statistical Society Conference
+    date: '2024-12-12'
+    awarder: Korean Statistical Society
+    summary: |
+      I was awarded for the originality of my research approach for two-sample test using kernel methods in semi-supervised settings and my ability to communicate complex ideas through my presentation. 
   - title: Excellent Prize, 2023 Yonsei Big Data Analysis Competition 
     date: '2023-09-02'
     awarder: Yonsei University & Neovalue Co.
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Excellent Prize, 2023 Yonsei Big Data Analysis Competition 
-    date: '2023-09-02'
-    awarder: Yonsei University & Neovalue Co.
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I was awarded for integrating real estate and public data to propose a merchandise display allocation using survival data and network analysis, recognized for its excellence in both the written report and oral presentation.
   - title: Semester High Honors
-    date: '2023-07-01'
+    date: '2018-03-01'
     awarder: Yonsei University
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      I was recognized for my outstanding academic achievement by receiving Semester High Honors, awarded to students who maintain a GPA of 3.75/4.3 (or 3.5/4.0) or higher, placing within the top 3% of their class for the Fall semester in 2017.
+  - title: Semester High Honors
+    date: '2023-03-01'
+    awarder: Yonsei University
+    summary: |
+      I was recognized for my outstanding academic achievement by receiving Semester High Honors, awarded to students who maintain a GPA of 3.75/4.3 (or 3.5/4.0) or higher, placing within the top 3% of their class for the Fall semester in 2022.
   - title: Semester Honors
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    date: '2022-03-01'
     awarder: Yonsei University
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+     I was recognized for my outstanding academic achievement by receiving Semester High Honors, awarded to students who maintain a GPA of 3.75/4.3 (or 3.5/4.0) or higher, placing within the top 10% of their class for the Fall semester in 2021.
+  - title: Semester High Honors
+    date: '2018-03-01'
+    awarder: Yonsei University
+    summary: |
+      I was recognized for my outstanding academic achievement by receiving Semester High Honors, awarded to students who maintain a GPA of 3.75/4.3 (or 3.5/4.0) or higher, placing within the top 3% of their class for the Fall semester in 2017.
+  - title: Semester Honors
+    date: '2017-09-01'
+    awarder: Yonsei University
+    summary: |
+     I was recognized for my outstanding academic achievement by receiving Semester High Honors, awarded to students who maintain a GPA of 3.75/4.3 (or 3.5/4.0) or higher, placing within the top 10% of their class for the Spring semester in 2017.
+
 ---
 
 ## About Me
