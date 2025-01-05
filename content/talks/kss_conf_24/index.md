@@ -12,7 +12,7 @@ address:
   postcode: '34141'
   country: Republic of Korea
 
-summary: Extending permutation-free kernel two-sample test into the semi-supervised setting with asymptotic properties under the null and alternative hypotheses.
+summary: My independent research which extends the permutation-free kernel two-sample test into the semi-supervised setting.
 
 abstract: |
   In recent years, significant advancements in statistics and machine learning have led to the development of semi-supervised methodologies that leverage both labeled and unlabeled data. One prominent area of interest within this domain is statistical inference, such as the two-sample test. 
