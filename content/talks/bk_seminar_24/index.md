@@ -12,16 +12,10 @@ address:
   postcode: '03722'
   country: Republic of Korea
 
-summary: Extending permutation-free kernel two-sample test into the semi-supervised setting with asymptotic properties under the null and alternative hypotheses.
+summary: My ongoing work which proposes kernel two-sample test in the semi-supervised setting.
 
 abstract: |
-  In recent years, the realm of statistics and machine learning has seen significant advancements in the development of semi-supervised methodologies that leverage both labeled and unlabeled data. One notable area of focus within this method is statistical inference under semi-supervised setting. 
-  
-  The main goal of the certain domain is to utilize insights derived from unlabeled data in order to improve statistical estimation and hypothesis testing. In particular, our interest lies on two-sample test which evaluate whether two distributions originate from the same underlying population. 
-  
-  In this paper, we aim to extend upon existing kernel two-sample testing method by introducing a novel testing framework of 'Semi-Supervised Kernel Two-Sample Test'. We propose test statistic making use of both labeled and unlabeled data and prove that our statistic follows Normal distribution asymptotically under certain conditions. 
-  
-  Furthermore, we examine its consistency of power and related conditions, analyzing the efficiency of our statistic. We provide numerical analysis on different situations of the condition of labeled and unlabeled data.
+  In recent years, the realm of statistics and machine learning has seen significant advancements in the development of semi-supervised methodologies that leverage both labeled and unlabeled data. One notable area of focus within this method is statistical inference under semi-supervised setting. The main goal of the certain domain is to utilize insights derived from unlabeled data in order to improve statistical estimation and hypothesis testing. In particular, our interest lies on two-sample test which evaluate whether two distributions originate from the same underlying population. In this paper, we aim to extend upon existing kernel two-sample testing method by introducing a novel testing framework of 'Semi-Supervised Kernel Two-Sample Test'. We propose test statistic making use of both labeled and unlabeled data and prove that our statistic follows Normal distribution asymptotically under certain conditions. Furthermore, we examine its consistency of power and related conditions, analyzing the efficiency of our statistic. We provide numerical analysis on different situations of the condition of labeled and unlabeled data.
 
 
 # Talk start and end times.
