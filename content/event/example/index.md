@@ -12,18 +12,13 @@ address:
   postcode: '34141'
   country: Republic of Korea
 
-# summary: In this work, I extending permutation-free kernel two-sample test into the semi-supervised setting, guaranteeing its asymptotic properties under the null and alternative.
-abstract: In recent years, significant advancements in statistics and machine learning have led to the
-development of semi-supervised methodologies that leverage both labeled and unlabeled data.
-One prominent area of interest within this domain is statistical inference like two-sample test.
-In this paper, we extend existing kernel two-sample testing methods in semi-supervised setting
-based on sample-splitting and studentization which utilizes both labeled and unlabeled data. We
-prove that the corresponding statistic has a standard Gaussian asymptotic distribution under
-the null given certain conditions. Additionally, we prove that under stricter conditions, the
-statistic has a Gaussian limiting distribution either the case with or without unlabeled data.
-Furthermore, we show the consistency of the suggested test against fixed alternative, and obtain
-explicit expression of power when using bilinear kernel. We provide a numerical analysis and
-experimental results to validate the effectiveness of our proposed method.
+summary: Extending permutation-free kernel two-sample test into the semi-supervised setting with asymptotic properties under the null and alternative hypotheses.
+
+abstract: |
+  In recent years, significant advancements in statistics and machine learning have led to the development of semi-supervised methodologies that leverage both labeled and unlabeled data. One prominent area of interest within this domain is statistical inference, such as the two-sample test. 
+  
+  In this paper, we extend existing kernel two-sample testing methods to a semi-supervised setting based on sample-splitting and studentization, utilizing both labeled and unlabeled data. We prove that the corresponding statistic has a standard Gaussian asymptotic distribution under the null hypothesis given certain conditions. Additionally, we prove that under stricter conditions, the statistic has a Gaussian limiting distribution with or without unlabeled data. Furthermore, we show the consistency of the suggested test against fixed alternatives and obtain an explicit expression for power when using a bilinear kernel. Numerical analysis and experimental results validate the effectiveness of our proposed method.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
