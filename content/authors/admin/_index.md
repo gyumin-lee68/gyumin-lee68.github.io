@@ -227,11 +227,6 @@ awards:
     summary: |
       I was awarded for integrating real estate and public data to propose a merchandise display allocation using survival data and network analysis, recognized for its excellence in both the written report and oral presentation.
   - title: Semester High Honors
-    date: '2018-03-01'
-    awarder: Yonsei University
-    summary: |
-      I was recognized for my outstanding academic achievement by receiving Semester High Honors, awarded to students who maintain a GPA of 3.75/4.3 (or 3.5/4.0) or higher, placing within the top 3% of their class for the Fall semester in 2017.
-  - title: Semester High Honors
     date: '2023-03-01'
     awarder: Yonsei University
     summary: |
