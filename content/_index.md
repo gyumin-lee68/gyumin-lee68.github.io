@@ -38,37 +38,37 @@ sections:
         My research interest lies in developing statistical inference methods that perform well in complex and            dynamic data settings, effectively leveraging data characteristics to yield meaningful results. I aim to          focus on developing statistical inference techniques that address key challenges in real-world                    applications. 
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
+  #- block: collection
+  #  content:
+  #    title: Recent Publications
+  #    text: ""
+  #    filters:
+  #      folders:
+  #        - publication
+  #      exclude_featured: false
+  #  design:
+  #    view: citation
+  #- block: collection
+  #  id: talks
+  #  content:
+  #    title: Talks
+  #    filters:
+  #      folders:
+  #        - event
+  #  design:
+  #    view: article-grid
+  #    columns: 1
   #- block: collection
   #  id: news
   #  content:
