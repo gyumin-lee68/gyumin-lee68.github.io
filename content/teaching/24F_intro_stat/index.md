@@ -9,6 +9,8 @@ tags:
 image:
   caption: ''
 ---
+Instructor: Professor Mijung Kim
+
 Textbook: "Probability and Statistics for Engineers and Scientists" by Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, and Keying E. Ye
 
 Topics: Descriptive statistics & graphical diagnostics, probability & random variables (discrete and
