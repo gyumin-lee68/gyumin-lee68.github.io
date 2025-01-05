@@ -1,17 +1,22 @@
 ---
 title: Introduction to Statistics
-summary: Easily learn JavaScript in 10 minutes!
+summary: Yonsei University
 date: 2024-09-01
 type: docs
 math: true
 tags:
   - STA1001
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
 ---
 Textbook: "Probability and Statistics for Engineers and Scientists" by Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, and Keying E. Ye
 
-Prepared weekly TA sessions with review and problem-solving lectures for 30+ undergraduates in English
+Topics: Descriptive statistics & graphical diagnostics, probability & random variables (discrete and
+continuous), sampling & sampling distribution, one- and two-sample estimation, one- and
+two-sample tests of hypotheses
 
-Assessed exams and provided detailed feedback to support academic improvement.
+Assessment: Online/Offline class attendance (9%) + Weekly ALEKS assignment (21%) + Midterm (35%) + Final (35%)
 
+For Students: Please regularly check the Announcements section on the LearnUS course page. It contains important updates and information relevant to the course.
+
+If you encounter any issues or have further questions, feel free to email me. I will respond as soon as possible.
