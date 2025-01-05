@@ -17,6 +17,7 @@ sections:
       filters:
         folders:
           - teaching
+      count: 10
     design:
       view: article-grid
       columns: 1
