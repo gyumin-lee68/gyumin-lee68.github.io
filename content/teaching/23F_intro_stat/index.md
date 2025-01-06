@@ -9,7 +9,7 @@ tags:
 image:
   caption: ''
 ---
-Instructor: Professor Mijung Kim
+Instructor: Professor Mijung Kim (Dept. of Applied Statistics, Yonsei University)
 
 Textbook: "Probability and Statistics for Engineers and Scientists" by Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, and Keying E. Ye
 
