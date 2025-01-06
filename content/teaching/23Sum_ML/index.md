@@ -9,7 +9,7 @@ tags:
 image:
   caption: ''
 ---
-Instructor: Professor Wonkyung Jang
+Instructor: Professor Wonkyung Jang (Dept. Instructional Leadership and Academic Curriculum, The University of Oklahoma)
 
 Textbook: Lecture notes
 
