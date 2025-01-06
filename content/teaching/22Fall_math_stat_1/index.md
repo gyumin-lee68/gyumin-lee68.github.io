@@ -7,7 +7,7 @@ math: true
 tags:
   - STA3126
 ---
-Instructor: Professor Yongho Jeon
+Instructor: Professor Yongho Jeon (Dept. of Applied Statistics, Yonsei University)
 
 Textbook: "Introduction to Mathematical Statistics" by Robert V. Hogg
 
