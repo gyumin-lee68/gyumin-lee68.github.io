@@ -1,6 +1,6 @@
 ---
 title: Introduction to Statistics
-summary: Yonsei University
+summary: Teaching Assistant, Yonsei University
 date: 2024-09-01
 type: docs
 math: true
