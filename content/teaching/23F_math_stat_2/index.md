@@ -7,7 +7,7 @@ math: true
 tags:
   - STA3109
 ---
-Instructor: Professor Ilmun Kim
+Instructor: Professor Ilmun Kim (Dept. of Applied Statistics, Yonsei University)
 
 Textbook: "Introduction to Mathematical Statistics" by Robert V. Hogg
 
