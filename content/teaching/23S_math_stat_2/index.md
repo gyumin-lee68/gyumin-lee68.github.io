@@ -1,6 +1,6 @@
 ---
 title: Mathematical Statistics II
-summary: Yonsei University
+summary: Teaching Assistant, Yonsei University
 date: 2023-03-02
 type: docs
 math: true
