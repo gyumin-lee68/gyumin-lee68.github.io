@@ -63,7 +63,7 @@ url_video: ''
 # slides: example
 ---
 
-This paper is still in preparation. This paper will be available to read in openreview link.
+This paper is still in preparation. This paper will be available to read in the openreview link in my "bio" page(link with book logo).
 <!--
  {{% callout note %}}
  Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
