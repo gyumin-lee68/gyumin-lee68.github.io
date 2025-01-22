@@ -42,7 +42,7 @@ profiles:
     url: https://www.linkedin.com/](https://www.linkedin.com/in/gyumin-lee-154459232/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/](https://scholar.google.com/citations?user=g8M9KpsAAAAJ&hl=ko
-  - icon: fas/book-open
+  - icon: solid/book-open
     url: https://openreview.net/profile?id=~Gyumin_Lee1
 interests:
   - High-dimensional Inference
